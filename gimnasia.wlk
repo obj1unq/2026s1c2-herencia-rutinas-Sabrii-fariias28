@@ -38,15 +38,15 @@ class Maraton inherits Running {
   override method calorias(_tiempo) {
     return (100 * (_tiempo - self.descanso(_tiempo)) * intensidad) * 2
   }
-
-  override method descanso(tiempo) {
-    return  tiempo / 5
-  }
 }
 
 class Remo inherits Rutina{
   override method intensidad() {
     return 1.3
+  }
+
+  override method descanso(tiempo) {
+    return  tiempo / 5
   }
 }
 class RemoCompeticion inherits Remo {}
