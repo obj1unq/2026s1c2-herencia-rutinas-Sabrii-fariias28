@@ -11,8 +11,7 @@ impactan en el peso de las personas.
 tiempo que se practique.
 
 
-En este sistema se contemplan 4 tipos de rutina: Running, Maratón, Remo y Remo
-de competición.
+En este sistema se contemplan 4 tipos de rutina: Running, Maratón, Remo y Remo de competición.
 
 Independiente de cual es la rutina, siempre la fórmula para saber cuántas
 calorías baja una rutina depende del tiempo que se practique  y una intensidad
