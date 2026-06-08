@@ -57,7 +57,3 @@ class RemoCompeticion inherits Remo {
     return ((tiempo / 5) - 3).max(2)
   }
 }
-
-class Club {
-  
-}

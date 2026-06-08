@@ -20,6 +20,7 @@ class Persona {
 
 class PersonaSedentaria inherits Persona {
     const property minutos 
+    
     override method kilosPorCalorias(){
         return 7000
     }
